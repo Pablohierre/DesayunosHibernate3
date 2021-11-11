@@ -1,0 +1,4 @@
+module-info.class
+com\mycompany\desayunoshibernate3\models\Producto.class
+com\mycompany\desayunoshibernate3\HibernateUtil.class
+com\mycompany\desayunoshibernate3\models\Pedido.class
